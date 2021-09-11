@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Karate Torch</string>
+    <string name="tv_text_title_ShakeThreshold">Shake Threshold</string>
+    <string name="button_text_Save">Save</string>
+    <string name="button_text_Settings">Settings</string>
+    <string name="tv_text_heading_Settings">Settings</string>
+    <string name="tv_text_explaination_st">Shake Sensitivity</string>
+    <string name="iv_contentDisc">Gif Image to show shake motion</string>
+    <string name="switch_on_text">Switch On</string>
+    <string name="switch_off_text">Switch Off</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="torch">Torch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_flashlight">Flashlight</string>
+    <string name="main_lamp">Lamp</string>
+    <string name="main_exit">Exit</string>
+    <string name="color_white">White</string>
+    <string name="color_green">Green</string>
+    <string name="color_red">Red</string>
+    <string name="button_on">ON</string>
+    <string name="button_white">button_white</string>
+    <string name="button_yellow">button_yellow</string>
+    <string name="button_blue">button_blue</string>
+    <string name="button_purple">button_purple</string>
+    <string name="button_red">button_red</string>
+    <string name="button_white_on">button white on</string>
+    <string name="fon_invis">fon invis</string>
+    <string name="button_of">button of</string>
+    <string name="turn_off">Turn OFF</string>
+    <string name="action_help">Help</string>
+    <string name="about_version_Title">App Version</string>
+    <string name="gravity_Title">Gravity threshold</string>
+    <string name="shake_Title">Time between shake events</string>
+    <string name="reset_Title">Time reset with no shake activity</string>
+    <string name="countdown_Title">Countdown Time</string>
+    <string name="btnSave">Save Settings</string>
+    <string name="btnReset">Reset Defaults</string>
+    <string name="about_version_Summary">Build 2021–09–04</string>
+    <string name="swipe">Swipe Up or Down To Change Screen Brightness</string>
+    <string name="swipe_up_and_down_to_text">Swipe Up and Down to Change Screen Brightness</string>
+    <string name="got_it">Got it</string>
+    <string name="progress">Progress</string>
+</resources>
